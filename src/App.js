@@ -25,6 +25,7 @@ function App() {
           <Route path="/listaUsuarios" element={<ListaUsuarios/>} />
           <Route path="/listaUsuariosLider" element={<ListaUsuariosLider/>} />
           <Route path="/addUsuario" element={<AddUsuario/>} />
+          <Route path="/prueba" element={} />
         </Routes>
         <Footer />
         {/* <Footer /> */}
